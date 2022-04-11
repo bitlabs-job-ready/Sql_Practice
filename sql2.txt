@@ -146,5 +146,5 @@ mysql>select * from customer where city in(select city from customers where city
 
 
 
-
+//kindly show the output for 10th question except that everything is correct
 
